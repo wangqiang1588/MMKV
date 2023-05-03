@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-import "package:mmkv/mmkv.dart";
+import "package:mmkvflutter/mmkv.dart";
 import "package:test/test.dart";
 
 void main() {
